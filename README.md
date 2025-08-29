@@ -15,6 +15,8 @@ Um programa em python que recebem conjuntos de entrada e permitem as funções d
 - Produto cartesiano
 - Relações binárias e n-árias
 
-> Obs.: Foram feitas 2 classes, uma usando herdando a classe 'set' built-in do python, e outra usando list.
+> Obs.: Python tem uma classe build-in chamada 'set', que é literalmente "conjunto" e possui praticamente todas as funções desenvolvidas nesse projeto.
+
 ***
+
 Link do vídeo do script em execução: 
