@@ -19,4 +19,4 @@ Um programa em python que recebem conjuntos de entrada e permitem as funções d
 
 ***
 
-Link do vídeo do script em execução: https://we.tl/t-eViDz8KRf4
+Link do vídeo do script em execução: [Google Drive (O vídeo tem mais de 10mb)](https://drive.google.com/file/d/1fxvSEKP1JNYimuyNYQCRyfv81EIqP-Tp/view?usp=sharing)
